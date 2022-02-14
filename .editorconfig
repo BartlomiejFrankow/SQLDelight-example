@@ -1,0 +1,9 @@
+[*.{kt,kts}]
+
+# Disable check for issue: Imports must be ordered in lexicographic order without any empty lines in-between with "java", "javax", "kotlin" and aliases in the end
+disabled_rules = import-ordering
+
+# Comma-separated list of rules to disable (Since 0.34.0)
+# Note that rules in any ruleset other than the standard ruleset will need to be prefixed
+# by the ruleset identifier.
+disabled_rules=no-wildcard-imports,experimental:annotation,my-custom-ruleset

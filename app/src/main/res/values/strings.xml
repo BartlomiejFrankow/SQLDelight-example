@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLDelight example</string>
+    <string name="delete_person">Delete person</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="insert_person">Insert person</string>
+</resources>
