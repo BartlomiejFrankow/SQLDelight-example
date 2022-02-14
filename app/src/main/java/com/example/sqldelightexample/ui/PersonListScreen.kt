@@ -43,7 +43,6 @@ fun PersonListScreen(
         MainView(persons, viewModel)
         DialogView(viewModel)
     }
-
 }
 
 @Composable
@@ -160,5 +159,4 @@ fun PersonItem(
             )
         }
     }
-
 }

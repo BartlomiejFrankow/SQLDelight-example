@@ -12,6 +12,4 @@ interface PersonDataSource {
     suspend fun deletePersonById(id: Long)
 
     suspend fun insertPerson(firstName: String, lastName: String, id: Long? = null)
-
-
 }
