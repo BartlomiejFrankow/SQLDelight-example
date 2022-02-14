@@ -7,3 +7,4 @@ It's a small SQLDelight example project.
 - Coroutines
 - Flow
 - Compose
+- ktlint
